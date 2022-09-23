@@ -51,10 +51,6 @@ getgenv().Aiming = {
 
     TargetPart = {"Head", "LowerTorso"},
 
-    Ignored = {
-        Players = {
-            LocalPlayer
-        }
 }
 local Aiming = getgenv().Aiming
 
